@@ -1,4 +1,3 @@
-//import fictif car fonction de test à créer
 import { Cart } from "../src/cart";
 
 describe("Cart", () => {
